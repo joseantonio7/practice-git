@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -g -Wall
 LIBS = -lm  
-SRCS = fib.c main.c 
+SRCS = fib.c fac.c main.c 
 OBJS = $(SRCS:.c=.o)
 MAIN = app
 
