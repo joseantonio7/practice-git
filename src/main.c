@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "fib.h"
+#include "fac.h"
  
 int main(){
 	int i = 0;
@@ -7,4 +8,6 @@ int main(){
 		printf("hola mundo\n");
 	}
 	printf("El elemento 10 de la serie de fibonacci es: %ld\n",fibonacci(10));
+	printf("El factorial de 5 es: %ld\n",factorial(5));
+
 }
