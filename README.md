@@ -2,3 +2,11 @@
 Practica de git
 
 repositorio para jugar
+
+
+## tests
+
+1) merge 
+2) pull de otra rama
+3) cherry pick
+4) blame
