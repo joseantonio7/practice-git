@@ -7,4 +7,5 @@ int main(){
 		printf("hola mundo\n");
 	}
 	printf("El elemento 10 de la serie de fibonacci es: %ld\n",fibonacci(10));
+	return 0;
 }
